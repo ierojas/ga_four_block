@@ -1,6 +1,6 @@
 connection: "ga4-privado-empresas"
 
-label: "Portal Privado Empresas"
+label: "Portal Privado Empresas 1"
 
 include: "/dashboards/*.dashboard"
 include: "/explores/**/*.explore.lkml"
