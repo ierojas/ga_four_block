@@ -1,6 +1,6 @@
-connection: "@{GA4_CONNECTION}"
+connection: "ga4-privado-empresas"
 
-label: "Google Analytics 4"
+label: "Portal Privado Empresas"
 
 include: "/dashboards/*.dashboard"
 include: "/explores/**/*.explore.lkml"
